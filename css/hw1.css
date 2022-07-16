@@ -1,0 +1,25 @@
+header {
+   background: rgba(40, 160, 171, 0.267);
+}
+
+h1 {
+   text-align: center;
+   color: #204836d8;
+}
+
+h2 {
+   color: #432449a4;
+}
+
+section {
+   background: #4e1a1a5a;
+}
+
+a {
+   color: #ffffffc8;
+   background-color: #0c421af9;
+}
+
+img {
+   display: none;
+}
