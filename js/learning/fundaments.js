@@ -24,7 +24,7 @@ console.log(suma + "\n")
 
 class Persona {
 
-   personas = 0
+   cant_personas = 0
 
    constructor(nombre, identificacion, correo, telefono) {
       this.nombre = nombre
